@@ -1,0 +1,25 @@
+{
+  "name": "spotify-fun",
+  "version": "1.0.0",
+  "description": "all the small things truth cares truth brings",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Obarquinho/spotify-fun.git"
+  },
+  "keywords": [
+    "spotify"
+  ],
+  "author": "sunouray, obarquinho",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Obarquinho/spotify-fun/issues"
+  },
+  "homepage": "https://github.com/Obarquinho/spotify-fun#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
